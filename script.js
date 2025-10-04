@@ -87,9 +87,6 @@ const showMoonPhase = () => {
     } else if (phase.image === 4) {
         resultImage.style.setProperty('--moon-cover-scale', 0);
     }
-
-   
-
     let coverX = 0;
     if (phase.image === 0) { 
         coverX = 100;
