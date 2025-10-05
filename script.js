@@ -120,7 +120,3 @@ const showMoonPhase = () => {
 
 // #bdc3c7
 // #34495e
-
-
-
-
